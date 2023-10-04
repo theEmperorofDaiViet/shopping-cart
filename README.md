@@ -30,6 +30,8 @@ A shopping cart application that persists data to a server, using Vuex.
 * [![HTML5][HTML5-shield]][HTML5-url]
 * [![CSS3][CSS3-shield]][CSS3-url]
 * [![JavaScript][JavaScript-shield]][JavaScript-url]
+* [![Node.js][Node.js-shield]][Node.js-url]
+* [![Express][Express-shield]][Express-url]
 * [![Vue.js][Vue.js-shield]][Vue.js-url]
 * [![Bulma][Bulma-shield]][Bulma-url]
 * [![Font Awesome][Font Awesome-shield]][Font Awesome-url]
@@ -106,6 +108,10 @@ You can contact me via:
 [CSS3-url]: https://www.w3.org/Style/CSS/
 [JavaScript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [JavaScript-url]: https://www.ecma-international.org/
+[Node.js-shield]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[Node.js-url]: https://nodejs.org
+[Express-shield]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
+[Express-url]: https://expressjs.com/
 [Vue.js-shield]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
 [Vue.js-url]: https://vuejs.org/
 [Bulma-shield]: https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=Bulma&logoColor=white

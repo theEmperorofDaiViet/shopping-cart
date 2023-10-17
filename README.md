@@ -24,7 +24,7 @@
 </details>
 
 # About The Project
-A shopping cart application that persists data to a server, using Vuex.
+A shopping cart application that persists data to a server, using vuex and vue-router, based on chapter 6 and 8 of the book "<b>Fullstack Vue 3</b>".
 
 ## Built With
 * [![HTML5][HTML5-shield]][HTML5-url]
@@ -70,12 +70,20 @@ The Node and Webpack servers are now running - watch the console output for inst
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Key Features
-- Get all items in the product list
-- Get all items in the shopping cart
-- Add an item to the shopping cart
-- Remove an item from the shopping cart
-- Remove all items from the shopping cart
-- When no cart items are present: Hide the ‘Total Quantity’ text and ‘Remove all’ icon within the cart; disable the checkout button and notify the user to start adding items 
+- <code>v1.0.0</code>
+  - Get all items in the product list
+  - Get all items in the shopping cart
+  - Add an item to the shopping cart
+  - Remove an item from the shopping cart
+  - Remove all items from the shopping cart
+  - When no cart items are present: Hide the ‘Total Quantity’ text and ‘Remove all’ icon within the cart; disable the checkout button and notify the user to start adding items
+
++ <code>v1.1.0</code>: have multiple pages:
+  + <a href="/">/products</a> - only listing the list of products.
+  + <a href="/">/cart</a> - the cart screen.
+  + <a href="/">/product/:id</a> - to see more information of a particular product from the product list.
+
+- <code>v1.2.0</code>: the server that the app communicates with is now protected by a token that requires a login. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,6 +93,8 @@ Our app looks like this:
 <p align="center">
     <img src="public/images/examples/example-1.png">
     <img src="public/images/examples/example-2.png">
+    <img src="public/images/examples/example-3.png">
+    <img src="public/images/examples/example-4.png">
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
